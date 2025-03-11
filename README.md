@@ -39,3 +39,5 @@ Para evaluar el funcionamiento de su código, deberá realizar lo siguiente en e
 1) Crear una instancia de Linked List y agregar 10 elementos en ella.
 2) Imprimir la lista original.
 3) Utilizar el método **Reverse Inplace** para invertir la lista original.
+
+![console results](https://github.com/HugoGALAGA/reverse-linked-list/blob/main/Pictures/Captura%20de%20pantalla%20(1308).png)
